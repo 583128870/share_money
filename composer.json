@@ -1,0 +1,18 @@
+{
+    "name": "sharemoney/money",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qh",
+            "email": "583128870@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sharemoney\\":"src"
+        }
+    }
+}
